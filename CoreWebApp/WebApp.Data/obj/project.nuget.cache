@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "Rwb697jD8yF0PTCFGpfmHH2yeL9egaOyB4Ui4KTZ1TEitrlCm1Se0WmMUIHJUoQ4OtK9N6Y+y0oHzxsTkSvPEA==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\bhara\\source\\repos\\NetCore\\CoreWebApp\\WebApp.Data\\WebApp.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'C:\\Users\\bhara\\source\\repos\\NetCore\\CoreWebApp\\OdeToFood.Core\\OdeToFood.Core.csproj'. Check that the project reference is valid and that the project file exists.",
+      "libraryId": "C:\\Users\\bhara\\source\\repos\\NetCore\\CoreWebApp\\OdeToFood.Core\\OdeToFood.Core.csproj",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
+}

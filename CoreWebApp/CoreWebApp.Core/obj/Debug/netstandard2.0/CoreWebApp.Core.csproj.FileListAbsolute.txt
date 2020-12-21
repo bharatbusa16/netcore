@@ -1,0 +1,9 @@
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.deps.json
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.AssemblyInfoInputs.cache
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.AssemblyInfo.cs
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\bin\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.csprojAssemblyReference.cache
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Core\obj\Debug\netstandard2.0\CoreWebApp.Core.pdb

@@ -1,0 +1,12 @@
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.deps.json
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.dll
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Data.pdb
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Core.dll
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\bin\Debug\netstandard2.0\CoreWebApp.Core.pdb
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csprojAssemblyReference.cache
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.AssemblyInfoInputs.cache
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.AssemblyInfo.cs
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.csproj.CopyComplete
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.dll
+C:\Users\bhara\source\repos\NetCore\CoreWebApp\CoreWebApp.Data\obj\Debug\netstandard2.0\CoreWebApp.Data.pdb
